@@ -10,4 +10,5 @@ import lombok.Setter;
 public class Player {
     private String name;
     private char sign;
+    private int position;
 }
